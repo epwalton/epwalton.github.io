@@ -57,6 +57,14 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+  projs:
+    title: Projects
+    output: true
+    description: "my thesis work" 
+    feature_text: |
+      Welcome to my projects
+     feature_image: "https://picsum.photos/2560/600?image=866"
+   
 
 # Collection settings
 defaults:
@@ -72,3 +80,10 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+      
+   -
+    scope:
+      path: ""
+      type: "projs"
+    values:
+      layout: post # Set the default layout for pages
