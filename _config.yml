@@ -40,10 +40,6 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
-- title: Publications
-  url: /publications/
-- title: Blog
-  url: /blog/
 
 # Footer nav
 navigation_footer:
