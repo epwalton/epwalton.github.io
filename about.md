@@ -2,8 +2,10 @@
 title: About Elizabeth Walton
 ---
 
-I am fascinated by the communication between people \& technology of their perceived understanding of the body & its movement. 
+Our understanding of the body is difrerent from how a computer "understands" it. Yet we have to communicate with computers. 
 Different operational tasks require protocols, labels or training of body forms while sensations remain unexplainable & contexts, fluid.
+
+This fascinates me.
 
 I explored related topics during a PhD that I recently defended (March 2022) entitled *Dance Style Transitions : From Dancers’ Practice to Movement-Based Technology*. I studied under the supervision of [Wendy Mackay](https://ex-situ.lri.fr/people/mackay/) on the Inria research team [ex)situ](https://ex-situ.lri.fr/), a team located at the [Laboratoire Interdisciplinaire des Sciences du Numérique](https://www.lisn.upsaclay.fr/) at the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). The project was a part of the ANR project [Element (Enabling Learnability in Movement Interaction)](https://element-project.ircam.fr/) project, coordinated by [Frédéric Bevilacqua](https://frederic-bevilacqua.net/).
 
