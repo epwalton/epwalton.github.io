@@ -51,8 +51,8 @@ navigation_footer:
   #url : ""
 #- #title: Back to top
   #url: "#top"
-# - title: Instagram
-  # url: https://www.instagram.com/_elizabeth_walton_/
+ - title: Instagram
+   url: "https://www.instagram.com/_elizabeth_walton_/"
 
 # Collections
 collections:
