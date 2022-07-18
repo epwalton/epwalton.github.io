@@ -2,4 +2,6 @@
 title: Contact Information 
 ---
 
-My contact info. 
+Feel free to reach me at: elizabeth "[dot]" walton [at] protonmail [dot] com
+
+
