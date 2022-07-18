@@ -45,8 +45,9 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Last Updated: July 18, 2022
+- #title: Back to top
+  #url: "#top"
 
 # Collections
 collections:
