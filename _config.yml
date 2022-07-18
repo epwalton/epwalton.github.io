@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'My first website'
 description: 'This is my new website'
 permalink: pretty
 logo: "../Grey_white_prof_pic.jpg"
