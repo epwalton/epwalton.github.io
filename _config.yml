@@ -32,6 +32,9 @@ logo: "../Grey_white_prof_pic.jpg"
 #paginate: 5
 #paginate_path: blog/page:num
 
+social_navigation:
+Instagram: https://www.instagram.com/_elizabeth_walton_/
+
 # Header nav
 navigation_header:
 - title: Home
@@ -51,8 +54,8 @@ navigation_footer:
   #url : ""
 #- #title: Back to top
   #url: "#top"
- - title: Instagram
-   url: https://www.instagram.com/_elizabeth_walton_/
+# - title: Instagram
+  # url: https://www.instagram.com/_elizabeth_walton_/
 
 # Collections
 collections:
