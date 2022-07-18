@@ -56,19 +56,19 @@ navigation_footer:
 
 # Collections
 collections:
-  #posts:
-   # title: Posts
-   # output: true
-   # description: "My thoughts and ideas"
-   # feature_text: |
-   #   Welcome to my blog
-   # feature_image: "https://picsum.photos/2560/600?image=866"  
-   pages:
-    title: Projects
+  posts:
+    title: Posts
     output: true
-    description: "my thesis work" 
+    description: "My thoughts and ideas"
     feature_text: |
-    feature_image: "Website_drawing_2.png"
+      Welcome to my blog
+    feature_image: "Website_drawing_2.png" 
+   #pages:
+    #title: Projects
+    #output: true
+    #description: "my thesis work" 
+    #feature_text: |
+    #feature_image: "Website_drawing_2.png"
    
 
 # Collection settings
