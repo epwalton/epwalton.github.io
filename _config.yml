@@ -42,6 +42,8 @@ navigation_header:
   url: /projects/
  #title: Blog
  # url: /blog/
+- title: Contact 
+  url: /contact/
 
 # Footer nav
 navigation_footer:
