@@ -12,4 +12,4 @@ I explored related topics during a PhD that I recently defended (March 2022) ent
 My work focused on integrating the real-life experiences of professional dancers into dance tool design. I specialize in using qualitative methodologies, like semi-structured interviews and structured observation, to understand the nuanced, first-person perspective of events, like a dance style transition, and then to inform potential technological intervention to support related activities. 
 
 
-[Instagram](https://www.instagram.com/_elizabeth_walton_/)
+![Instragram Logo](instagram-logo.png)
