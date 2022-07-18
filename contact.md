@@ -6,6 +6,6 @@ Reach me at: elizabeth[dot]walton[at]protonmail[dot]com
 
 Or below: 
 
-{% raw %}{% include site-form.html %}{% endraw %}
+{% include site-form.html %}
 
 
