@@ -4,4 +4,6 @@ feature_image: "Website_drawing_1.png"
 feature_text: |
   ## Elizabeth Walton
 ---
-Work in Progress
+Our understanding of the body is difrerent from how a computer “understands” it. Yet we have to communicate with computers. 
+
+This fascinates me. 
