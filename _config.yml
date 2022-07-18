@@ -68,7 +68,7 @@ collections:
     output: true
     description: "my thesis work" 
     feature_text: |
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "Website_drawing_2.png"
    
 
 # Collection settings
