@@ -62,9 +62,9 @@ collections:
    pages:
     title: Projects
     output: true
-   # description: "my thesis work" 
-   # feature_text: |
-    #  Welcome to my projects
+    description: "my thesis work" 
+    feature_text: |
+      Welcome to my projects
     feature_image: "https://picsum.photos/2560/600?image=866"
    
 
