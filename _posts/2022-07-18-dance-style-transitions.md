@@ -2,7 +2,7 @@
 title: Dance Style Transitions
 categories:
 - Research
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "Website_drawing_3.png"
 ---
 
 This is where I will describe my dance transitions project. 
