@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Elizabeth Walton.'
 description: 'This is my new website'
 permalink: pretty
-logo: "../Grey_white_prof_pic_resize.jpg"
+logo: "../Grey_white_prof_pic.jpg"
 
 # Pagination
 #paginate: 5
