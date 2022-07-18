@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Elizabeth Walton. Powered by Jekyll with Alembic theme. Hosted by GitHub Pages'
+title: 'Elizabeth Walton.'
 description: 'This is my new website'
 permalink: pretty
 logo: "../Grey_white_prof_pic.jpg"
