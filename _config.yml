@@ -49,8 +49,9 @@ navigation_header:
 navigation_footer:
 - #title: Last Updated: July 18, 2022
   #url : ""
-- title: Back to top
-  url: "#top"
+#- #title: Back to top
+  #url: "#top"
+  Instagram: https://www.instagram.com/_elizabeth_walton_/
 
 # Collections
 collections:
