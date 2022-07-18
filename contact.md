@@ -4,8 +4,8 @@ title: Contact Information
 
 Reach me at: elizabeth[dot]walton[at]protonmail[dot]com
 
-Or below: 
+//Or below: 
 
-{% include site-form.html %}
+//{% include site-form.html %}
 
 
