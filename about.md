@@ -1,6 +1,5 @@
 ---
 title: About Elizabeth Walton
-social: true
 ---
 
 Our understanding of the body is difrerent from how a computer "understands" it. Yet we have to communicate with computers. 
