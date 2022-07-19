@@ -40,6 +40,8 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
+- title: Photos and Videos  
+  url: /photos/
  #title: Blog
  # url: /blog/
 - title: Contact 
