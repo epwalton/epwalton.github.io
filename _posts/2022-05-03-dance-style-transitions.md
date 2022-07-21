@@ -12,7 +12,7 @@ What are their key strategies for overcoming the obstacles of dance style transi
 Most current dance support technologies focus on dancers, teachers or choreographers who are engaged in a single
 activity. We are interested in creating tools that support professional dancers over longer periods of time, as their careers and personal practices evolve. We interviewed 12 professional and pre-professional dancers about a critical moment in their careers: the transition to a new dance style. 
 
-{% include figure.html image="../../../../../Transitions_results.png" caption="Strategies (short and long-term) for each style transition challenge, as well external guidance received" position="center" width="1000" height="1000"%}
+{% include figure.html image="../../../../../Transitions_results.png" caption="Strategies (short & long-term) for each style transition challenge, plus external guidance received" position="center" width="1500" height="1500"%}
 
 We identify three key challenges—overcoming habits, learning new forms of movement, transitioning over time— and their strategies for addressing them. We argue that successful tools must help dancers change their mentality about new movement styles, rather than focusing solely on movement mechanics. We suggest three possible implications for design: develop “movement substrates” that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement.
 
