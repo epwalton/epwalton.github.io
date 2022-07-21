@@ -7,7 +7,7 @@ feature_image: "../../../../../Website_drawing_3.png"
 
 What are their key strategies for overcoming the obstacles of dance style transitions? And how do we build technology to support the individual dancer during this process? 
 
-{% include figure.html image="../../../../../P3_alignment.png" caption="Dancer D3 displaying the difference of alignment from classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
+{% include figure.html image="../../../../../P3_alignment.png" caption="Dancer D3 showing difference of alignment from classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
 
 Most current dance support technologies focus on dancers, teachers or choreographers who are engaged in a single
 activity. We are interested in creating tools that support professional dancers over longer periods of time, as their careers and personal practices evolve. We interviewed 12 professional and pre-professional dancers about a critical moment in their careers: the transition to a new dance style. 
