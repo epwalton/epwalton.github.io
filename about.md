@@ -4,7 +4,9 @@ title: About Elizabeth Walton
 
 Movement and computation has fueled my wandering mind ever since I was a child. 
 
-As a trained dancer, I played with numbers, patterns, and geometry in phrases and rhythms. As a young scholar, I connected to the movement and music present in algorithms and mathematical analysis. My hunger for this dually-influenced education combined with the technologically influenced mordern context led me to pursuing computer science and dance in adulthood. It's from this point that I start creating. 
+As a trained dancer, I played with numbers, patterns, and geometry in phrases and rhythms. As a young scholar, I connected to the movement and music present in algorithms and mathematical analysis. My hunger for this dually-influenced education combined with the technologically influenced mordern context led me to pursuing computer science and dance in adulthood. 
+
+It's from this point that I start creating. 
 
 I recently explored the relationship between technological interaction and dance during a PhD that I defended (March 2022) entitled [*Dance Style Transitions : From Dancers’ Practice to Movement-Based Technology*](https://www.theses.fr/2022UPASG027). I studied under the supervision of [Wendy Mackay](https://ex-situ.lri.fr/people/mackay/) on the Inria research team [ex)situ](https://ex-situ.lri.fr/), a team located at the [Laboratoire Interdisciplinaire des Sciences du Numérique](https://www.lisn.upsaclay.fr/) at the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). The project was a part of the ANR project [Element (Enabling Learnability in Movement Interaction)](https://element-project.ircam.fr/) project, coordinated by [Frédéric Bevilacqua](https://frederic-bevilacqua.net/).
 
