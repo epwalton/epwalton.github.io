@@ -5,6 +5,8 @@ categories:
 feature_image: "../../../../../Website_drawing_3.png"
 ---
 
+Thesis statement of project 
+
 {% include figure.html image="../P3_alignment.png" caption="Dancer D3 displaying the difference of alignment from classical ballet (left) and modern dance (right)"%}
 
 Most current dance support technologies focus on dancers, teachers or choreographers who are engaged in a single
