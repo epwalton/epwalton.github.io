@@ -10,11 +10,11 @@ What are their key strategies for overcoming the obstacles of dance style transi
 {% include figure.html image="../../../../../P3_alignment.png" caption="Dancer D3 displaying the difference of alignment from classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
 
 Most current dance support technologies focus on dancers, teachers or choreographers who are engaged in a single
-activity. We are interested in creating tools that support professional dancers over longer periods of time, as their careers and personal practices evolve. We interviewed 12 professional and pre-professional dancers about a critical moment in their careers: the transition to a new dance style due to shifting interests, ageing or injury. 
+activity. We are interested in creating tools that support professional dancers over longer periods of time, as their careers and personal practices evolve. We interviewed 12 professional and pre-professional dancers about a critical moment in their careers: the transition to a new dance style. 
 
 {% include figure.html image="../../../../../Transitions_results.png" caption="Dancers adopt various strategies to support their style transitions, with external guidance from teachers and choreographers, as well as adopting new techniques to support the long-term evolution of their dance practice" position="center" width="700" height="700"%}
 
-We identify three key challenges—overcoming habits, learning new forms of movement, transitioning over time— and their strategies for addressing them. We argue that successful tools must help dancers change their mentality about new movement styles, rather than focusing solely on movement mechanics. We suggest three possible implications for design: develop “movement substrates” that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement. We conclude with a discussion of directions for future research.
+We identify three key challenges—overcoming habits, learning new forms of movement, transitioning over time— and their strategies for addressing them. We argue that successful tools must help dancers change their mentality about new movement styles, rather than focusing solely on movement mechanics. We suggest three possible implications for design: develop “movement substrates” that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement.
 
 {% include figure.html image="../../../../../P1_tendu.png" caption="Dancer D1 showing a tendu in classical ballet (left) and contemporary dance (right)" width="500" height="500" %}
 
