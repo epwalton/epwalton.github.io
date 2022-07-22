@@ -13,7 +13,7 @@ And how do we build technology to support the individual dancer during this proc
 
 {% include figure.html image="../../../../../P3_alignment.png" caption="Dancer D3 showing alignment in classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
 
-We interviewed 12 professional and pre-professional dancers, asking for examples of movements or concepts that exist both in classical ballet and their current style of dance. We focused on their experience learning the movement, their strategies in- and outside of the studio, and the external guidance they received during the process. 
+We interviewed 12 professional and pre-professional, style-transitioned dancers, like myself, asking for examples of movements or concepts that exist both in classical ballet and their current style of dance. We focused on their experience learning the movement, their strategies in- and outside of the studio, and the external guidance they received during the process. 
 
 {% include figure.html image="../../../../../Transitions_results.png" caption="Interview Result Analysis: Strategies (Short & Long) and External Guidance" position="center" width="1000" height="1000"%}
 
