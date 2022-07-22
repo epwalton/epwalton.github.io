@@ -17,7 +17,7 @@ We interviewed 12 professional and pre-professional, style-transitioned dancers,
 
 {% include figure.html image="../../../../../Transitions_results.png" caption="Interview Result Analysis: Strategies (Short & Long) and External Guidance" position="center" width="1000" height="1000"%}
 
-We identify three key challenges—overcoming habits, learning new forms of movement, transitioning over time— and their strategies for addressing them. We argue that successful tools must help dancers change their mentality about new movement styles, rather than focusing solely on movement mechanics. We suggest three possible implications for design: develop “movement substrates” that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement.
+We identify three key challenges —overcoming habits, learning new forms of movement, transitioning over time— and their strategies for addressing them. We argue that successful tools must help dancers change their mentality about new movement styles, rather than focusing solely on movement mechanics. We suggest three possible implications for design: develop _movement substrates_ that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement.
 
 {% include figure.html image="../../../../../P1_tendu.png" caption="Dancer D1 showing a tendu in classical ballet (left) and contemporary dance (right)" width="500" height="500" %}
 
