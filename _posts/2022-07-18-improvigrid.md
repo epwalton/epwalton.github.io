@@ -5,4 +5,4 @@ categories:
 feature_image: "../../../../../Website_drawing_3.png"
 ---
 
-This is where I will describe my ImproviGrid project. 
+More information coming soon!
