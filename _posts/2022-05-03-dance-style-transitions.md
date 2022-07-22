@@ -5,7 +5,7 @@ categories:
 feature_image: "../../../../../Website_drawing_3.png"
 ---
 
-We define a dance style transition as a moment -- short- and long-term -- when a dancer changes from training and working in one style of dance, like classical ballet, to another style. We studied this transition experience as an example to understand: the long-term, personal and professional evolution of a professional dancer's career; how to design technology to support the life and practices of professional dancers; and to critically examine the current designs and intentions of movement-based interactive systems for dance learning and choreography. 
+We define a _dance style transition_ as a moment -- short- and long-term -- when a dancer changes from training and working in one style of dance, like classical ballet, to another style. We studied this transition experience as an example to understand: the long-term, personal and professional evolution of a professional dancer's career; how to design technology to support the life and practices of professional dancers; and to critically examine the current designs and intentions of movement-based interactive systems for dance learning and choreography. 
 
 We posed the following questions: 
 What are their key challenges and strategies for overcoming the challenges of dance style transitions? 
