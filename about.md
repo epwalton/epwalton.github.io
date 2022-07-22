@@ -4,7 +4,7 @@ title: About Elizabeth Walton
 
 Movement and computation has fueled my wandering mind ever since I was a child. 
 
-As a trained dancer, I played with numbers, patterns, and geometry in phrases and rhythms. As a young scholar, I connected to the movement and music present in algorithms and mathematical analysis. My hunger for this dually-influenced education combined with the technologically influenced mordern context led me to pursuing computer science and dance in adulthood. 
+As a trained dancer, I played with numbers, patterns, and geometry in phrases and rhythms. As a young scholar, I connected to the movement and music present in algorithms and mathematical analysis. My hunger for this dually-influenced education combined with a context shaped by modern technology led me to pursuing computer science and dance in adulthood. 
 
 It's from this point that I start creating. 
 
