@@ -1,5 +1,8 @@
 ---
-title: About Elizabeth Walton
+title: About 
+feature_image: "Website_drawing_1.png"
+feature_text: |
+  ## About Elizabeth Prater WALTON
 ---
 
 Movement and computation has fueled my wandering mind ever since I was a child. 
