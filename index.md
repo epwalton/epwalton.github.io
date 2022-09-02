@@ -1,6 +1,6 @@
 ---
 title: Dance and Technology Artist
-feature_image: "Website_drawing_1.png"
+feature_image: "dance_home_trial.png"
 feature_text: |
   ## Elizabeth Walton
 ---
