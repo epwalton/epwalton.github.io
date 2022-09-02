@@ -1,6 +1,6 @@
 ---
 title: About 
-feature_image: "Website_drawing_1.png"
+feature_image: "Headshot_serious.jpg"
 feature_text: |
   ## About Elizabeth Prater WALTON
 ---
