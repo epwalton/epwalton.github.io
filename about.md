@@ -1,8 +1,5 @@
 ---
-title: About 
-feature_image: "Headshot_serious.jpg"
-feature_text: |
-  ## About Elizabeth Prater WALTON
+title: About Elizabeth Prater WALTON
 ---
 
 Movement and computation has fueled my wandering mind ever since I was a child. 
