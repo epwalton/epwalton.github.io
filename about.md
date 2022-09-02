@@ -14,6 +14,6 @@ I recently explored the relationship between technological interaction and dance
 
 My work focused on informing technology design by better understanding and communicating in-the-wild professional dance experiences. I specialized in using qualitative methodologies, like semi-structured interviews and structured observation, to understand the nuanced, first-person perspective of events, like a dance style transition, and then to inform potential technological intervention to support related activities. 
 
-Take a look at my [CV](Elizabeth_Walton_Dance_CV.pdf) for more detailed information.
+Take a look at my [CV](09:22-Elizabeth_Walton_Dance_CV.pdf) for more detailed information.
 
 
