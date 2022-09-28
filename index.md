@@ -2,7 +2,7 @@
 title:  
 feature_image: "Website_drawing_4.png"
 feature_text: |
-  <span style="color:red">cardinals</span>
+  <span style="color:green">**Elizabeth Prater WALTON**</span>
 ---
 
 <p>
