@@ -2,7 +2,7 @@
 title:  
 feature_image: "Website_drawing_4.png"
 feature_text: |
-  <span style="color:#bf053f;font-family:inherit;font-size:35px">**Elizabeth Prater WALTON**</span>
+  <span style="color:#048d62;font-family:inherit;font-size:35px">**Elizabeth Prater WALTON**</span>
 ---
 
 <p>
