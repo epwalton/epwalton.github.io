@@ -1,7 +1,7 @@
 ---
 title:  
 feature_image: "Website_drawing_4.png"
-feature_text: 
+feature_text: |
   ## Elizabeth Prater WALTON 
 ---
 
