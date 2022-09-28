@@ -1,7 +1,7 @@
 ---
 title: About Elizabeth Prater WALTON
 ---
-{% include figure.html image="../Headshot_serious.png" caption="" width="250" height="650" %}
+{% include figure.html image="../Headshot_serious.jpg" caption="" width="250" height="650" %}
 
 
 Movement and computation has fueled my wandering mind ever since I was a child. 
