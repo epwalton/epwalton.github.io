@@ -6,6 +6,8 @@ feature_text: |
 ---
 
 {% include figure.html image="../WALTON_Photo_plain_pied.jpg" caption="" position="left" width="250" height="700" %}
+{% include figure.html image="../WATLON_photo _d'identité.jpg" caption="" position="right" width="250" height="700"%}
+
 {% include figure.html image="../Second_pointe.jpg" caption="" width="250" height="700" %}
 {% include figure.html image="../blue_side_attitude.jpg" caption="" position="right" width="250" height="700"%}
 
