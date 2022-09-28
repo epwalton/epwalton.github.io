@@ -2,7 +2,8 @@
 title:  
 feature_image: "Website_drawing_4.png"
 feature_text: |
-  ## *blue* Elizabeth Prater WALTON 
+  ## Elizabeth Prater WALTON 
+  {: .gitlab-purple}
 ---
 
 <p>
