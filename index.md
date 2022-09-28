@@ -2,8 +2,7 @@
 title:  
 feature_image: "Website_drawing_4.png"
 feature_text: |
-  ## Elizabeth Prater WALTON 
-  {: .gitlab-purple}
+  <span style="color:red">cardinals</span>
 ---
 
 <p>
