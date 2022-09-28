@@ -3,7 +3,7 @@ title:
 feature_image: "Website_drawing_4.png"
 feature_text: |
   <span style="color:#048d62;font-family:inherit;font-size:35px">**Elizabeth Prater WALTON**</span><br />
-  <span style="color:#05bf85;font-family:inherit;font-size:25px">          *Choreographer and Researcher in Movement and Technology*</span>
+  <span style="color:#05bf85;font-family:inherit;font-size:25px">*Choreographer & Researcher in Movement & Technology*</span>
 ---
 
 <p>
