@@ -9,6 +9,9 @@ feature_text: |
 {% include figure.html image="../Second_pointe.jpg" caption="" width="250" height="700" %}
 {% include figure.html image="../blue_side_attitude.jpg" caption="" position="right" width="250" height="700"%}
 
+{% include figure.html image="../blue_pants_lunge.jpg" caption="" position="left" width="250" height="700" %}
+{% include figure.html image="../Forward_attitude.jpg" caption="" position="right" width="250" height="700"%}
+
 {% include figure.html image="../parc_crosed.JPG" caption="" position="left" width="250" height="700" %}
 {% include figure.html image="../parc_attitude.JPG" caption="" position="right" width="250" height="700"%}
 
