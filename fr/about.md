@@ -1,9 +1,11 @@
 ---
 title: About Elizabeth Prater WALTON
 ---
-{% include figure.html image="../Headshot_serious.jpg" caption="" width="250" height="650" %}
+{% include figure.html image="../../Headshot_serious.jpg" caption="" width="250" height="650" %}
 
-Elizabeth Prater WALTON (she/her) is a choreographer, researcher, and dancer. Born in Louisville, Kentucky in the United States, she decided to move to France in 2017. She previously studied full-time with [Kristen Wenrick](http://rivercityballet-ky.org/about-us/) and [Theresa Bautista](http://www.theresabautistadance.com/). She has workshop experience working with Desmond Richardson, Christian Burns, Liz Santoro, Myriam Gourfink, and Ayelen Parolin. 
+Elizabeth Prater WALTON (she/her) est chorégraphe, chercheuse, et danseuse. Née à Louisville, Kentucky, aux États-Unis, elle est arrivée en France en 2017. Elle a auparavant étudié avec [Kristen Wenrick](http://rivercityballet-ky.org/about-us/) et Theresa Bautista](http://www.theresabautistadance.com/). Elle a participé aux stages avec Desmond Richardson, Christian Burns, Liz Santoro, Myriam Gourfink, et Ayelen Parolin. 
+
+En 2022, elle a commencé son travail chorégraphique. Sa première piece, *Series Grid, Study Touching Memory*, 
 
 In 2022, she began her work as a choreographer. Her first piece, *Series Grid, Study Touching Memory*, injects technology as an interface between mover and spectactor. In the creation space, she is fascinated by the roles technological systems can appropriate within the constellation of actors or mediate activities in which current actors can take on new roles. She focuses on altering interaction and perception of sensation and movement through prototyping. She believes that this creation-through-research practice inherently lends itself to critical reflection on both the social creation scenario and the technological tool.
 
