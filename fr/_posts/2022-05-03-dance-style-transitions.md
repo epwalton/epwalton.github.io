@@ -11,15 +11,15 @@ Je pose les questions suivantes :
 Quelles sonts les difficultés et les strategies pour surmonter ces difficultés liées aux transitions de style de danse ? 
 Comment développer la technologie pour soutenir le·a danseur·se·s individuel·lle·s pendant ce processus ? 
 
-{% include figure.html image="../../../../../../P3_alignment.png" caption="Dancer D3 showing alignment in classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
+{% include figure.html image="../../../../../../P3_alignment.png" caption="La danseuse D3 montre son alignement en danse classique (à gauche) et en danse moderne (à droite)." position="center" width="500" height="500"%}
 
 I interviewed 12 professional and pre-professional, style-transitioned dancers, asking for examples of movements or concepts that exist both in classical ballet and their current style of dance. We focused on their experience learning the movement, their strategies in- and outside of the studio, and the external guidance they received during the process. 
 
-{% include figure.html image="../../../../../../Transitions_results.png" caption="Interview Result Analysis: Strategies (Short & Long) and External Guidance" position="center" width="1000" height="1000"%}
+{% include figure.html image="../../../../../../Transitions_results.png" caption="Analyse des résultats des entretiens : Stratégies (courtes et longues) et conseils externes" position="center" width="1000" height="1000"%}
 
 I identified three key challenges —overcoming habits, learning new forms of movement, transitioning over time— and dancers' strategies for addressing them. We argue that successful tools must help dancers change their mentality toward the dance learning context and actors, rather than focusing solely on supporting movement mechanic improvement. We suggest three possible implications for design: develop _movement substrates_ that handle multiple movement representations; integrate learning and reflection in a single session; and create movement definitions through movement.
 
-{% include figure.html image="../../../../../../P1_tendu.png" caption="Dancer D1 showing a tendu in classical ballet (left) and contemporary dance (right)" width="500" height="500" %}
+{% include figure.html image="../../../../../../P1_tendu.png" caption="La danseuse D1 montrant un tendu en danse classique (à gauche) et en danse contemporaine (à droite)." width="500" height="500" %}
 
 J'ai publié, avec ma co-autrices [Wendy Mackay](https://ex-situ.lri.fr/people/mackay/), un article résumant notre travail à la [2022 ACM CHI Conference on Human Factors in Computing Systems](https://chi2022.acm.org/), intitulé [_Dance Transitions: What Forms of Technology Best Support Professional Dancers as They Learn New Movement Styles?_](https://dl.acm.org/doi/10.1145/3491102.3517448). 
 Regardez la présentation pré-enregistrée[ici](https://www.youtube.com/watch?v=z9L7kaqYvSw).
