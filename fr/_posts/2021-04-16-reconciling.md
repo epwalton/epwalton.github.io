@@ -1,14 +1,12 @@
 ---
-title: Reconciling Technology-Driven and Experiential Approaches for Movement-Based Design
+title: Réconcilier les approches technologiques et expérientielles pour le design basé sur le mouvement
 categories:
 - Research
 feature_image: "../../../../../../Website_drawing_3.png"
 ---
 
-To understand opposing approaches in movement-based interaction design, I analyzed research works from what I defined as _technology-driven design_ -- which seeks to continuously improve gesture creation and recognition for both the user and the system -- and _experiential design_ -- which explores nuances of aesthetics in movement, cultivates body awareness, and develops embodied design methods. I discussed future possibilites when integrating the first-person perspective into _technology-driven design_ and capturing from the third-person perspective during _experiential design_ by comparing particular project aspects: target users,  study context, design phase, focuse of movement, and study goal. 
+Pour comprendre les approches opposées dans la conception d'interactions basées sur le mouvement, j'ai analysé les travaux de recherche de ce que j'ai défini comme étant « _technology-driven design_ » -- qui cherche à améliorer continuellement la création et la reconnaissance des mouvements et des gestes, tant pour l’utilisateur que pour le système -- et « _experiential design_ » -- qui explore les nuances de l’esthétique des mouvements humains, élabore une conscience du corps, et développe des méthodes de mouvement dans la conception incarnée. Je discute les possibilités de recherche future lors de l'intégration de la perspective de la première personne dans le « _technology-driven design_ » et de la saisie de la perspective de la troisième personne pendant le « _experiential design_ » en comparant des aspects particuliers du projet : utilisateurs visés, contexte de l'étude, phase de conception, focalisation du mouvement et objectif de l'étude.  
 
+Mes co-auteurs et moi-même avons proposé notre analyse à la communauté en publiant un essai comparatif à [la 32e Conférence Francophone sur l'Interaction Homme-Machine](https://ihm2020.afihm.org/fr/), intitulé [Réconcilier les approches technologiques et expérientielles pour le design basé sur le mouvement](https://dl.acm.org/doi/10.1145/3450522.3451334). 
 
-My co-authors and myself offered our investigation to the community through a comparitive essay, published at [the 32nd Francophone Conference on Human-Computer Interaction](https://ihm2020.afihm.org/en/), entitled [_Reconciling Technology-Driven and Experiential Approaches for Movement-Based Design_](https://dl.acm.org/doi/10.1145/3450522.3451334). 
-Read the article [here](https://hal.archives-ouvertes.fr/hal-03362342). 
-
-Feel free to contact me with any questions or thoughts! 
+N'hésitez pas à me contacter pour toute question ou réflexion ! 
