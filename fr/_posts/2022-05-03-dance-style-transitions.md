@@ -13,7 +13,8 @@ Comment développer la technologie pour soutenir le·a danseur·se·s individuel
 
 {% include figure.html image="../../../../../../P3_alignment.png" caption="La danseuse D3 montre son alignement en danse classique (à gauche) et en danse moderne (à droite)." position="center" width="500" height="500"%}
 
-I interviewed 12 professional and pre-professional, style-transitioned dancers, asking for examples of movements or concepts that exist both in classical ballet and their current style of dance. We focused on their experience learning the movement, their strategies in- and outside of the studio, and the external guidance they received during the process. 
+J'ai fait des entretiens avec 12 danseur·se professionnel·les et pré-professionnel·les, qui ont changé de style. Je les ai demandé pour les exemples de mouvements ou de concepts qui existent à la fois dans la danse classique et dans leur style de danse actuel.
+I interviewed 12 professional and pre-professional, style-transitioned dancers, asking for examples of movements or concepts that exist both in classical ballet and their current style of dance. Je me suis concentrée sur leur expérience de l'apprentissage du mouvement, leurs stratégies à l'intérieur et à l'extérieur du studio, et les conseils externes qu'ils ont reçus au cours du processus. 
 
 {% include figure.html image="../../../../../../Transitions_results.png" caption="Analyse des résultats des entretiens : Stratégies (courtes et longues) et conseils externes" position="center" width="1000" height="1000"%}
 
