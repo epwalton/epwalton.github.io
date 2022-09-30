@@ -1,15 +1,15 @@
 ---
-title: Understanding Dance Style Transitions to Improve the Design of Dance Learning Support Systems
+title: La Compréhension des transitions entre les styles de danses pour améliorer la conceptions des systèmes d'aide à l'apprentissage de la danse
 categories:
 - Research
 feature_image: "../../../../../../Website_drawing_3.png"
 ---
 
-I defined a _dance style transition_ as a moment -- short- and long-term -- when a dancer changes from training and working in one style of dance, like classical ballet, to another style. I studied this transition experience to understand: the long-term, personal and professional evolution of a professional dancer's career; how to design technology to support the life and practices of professional dancers; and to critically examine the current designs and intentions of movement-based interactive systems for dance learning and choreography. 
+Je définis une _dance style transition_ comme un moment -- court ou longue -- lorsq'un·e danseur·se·s passe de la formation et du travail dans un style de danse, comme la danse classique, à un autre style. J'ai étudié cette expérience de transition pour comprendre : l'évolution à long terme, personnelle et professionnelle, de la carrière d'un·e danseur·se·s professionnel·le·s; comment de concevoir la technologie pour soutenier la vie et les pratiques des danseur·se·s professionnel·le·s; et pour examiner avec esprit critique les conceptions et intentions actuelles des systèmes interactifs basés sur le mouvement pour l'apprentissage de la danse et la chorégraphie. 
 
-I posed the following questions: 
-What are their key challenges and strategies for overcoming the challenges of dance style transitions? 
-And how do we build technology to support the individual dancer during this process? 
+Je pose les questions suivantes : 
+Quelles sonts les difficultés et les strategies pour surmonter ces difficultés liées aux transitions de style de danse ? 
+Comment développer la technologie pour soutenir le·a danseur·se·s individuel·lle·s pendant ce processus ? 
 
 {% include figure.html image="../../../../../../P3_alignment.png" caption="Dancer D3 showing alignment in classical ballet (left) and modern dance (right)" position="center" width="500" height="500"%}
 
