@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Elizabeth Walton.'
 description: ''
 permalink: pretty
-logo: "../../../../../keyboard_stock.png"
+logo: ""
 
 # Pagination
 #paginate: 5
