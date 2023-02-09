@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Elizabeth Walton.'
 description: ''
 permalink: pretty
-logo: ""
+logo: "dall-e_logo_1.png"
 
 # Pagination
 #paginate: 5
