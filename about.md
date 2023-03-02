@@ -17,5 +17,5 @@ Take a look at her [CV](March_2023_Elizabeth_Walton_CV_Danse.pdf) for more detai
 
 {% include figure.html image="../blue_pants_lunge.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../Forward_attitude.jpg" caption="" position="right" width="250" height="700"%}
 
-Photos by Matthieu Landos ([@m4tland](https://www.instagram.com/m4tland/).
+Photos by Matthieu Landos ([@m4tland](https://www.instagram.com/m4tland/)).
 
