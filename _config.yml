@@ -40,8 +40,10 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
-- title: Gallery
-  url: /gallery/
+- title: Calendar
+  url: /calendar/
+#title: Gallery
+  #url: /gallery/
  #title: Blog
  # url: /blog/
 - title: Contact 
