@@ -5,3 +5,8 @@ feature_text: |
   ## Calendar
 ---
 
+April 8-14 : Artistic Residency for *Series Grid, Study Sensing Memory*  at Cap Berriat, Grenoble, FR
+
+March 18 : Work-in-progress *Series Grid, Study Sensing Memory* at Crude Saturday, Tic Tac Arts Centre, Brussels, BE
+
+February 20 : Career Day Presentation at Jean Zay middle school, Saint-Gratien, FR
