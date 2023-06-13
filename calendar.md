@@ -5,6 +5,10 @@ feature_text: |
   ## Calendar
 ---
 
+July 14-16 : Attendance of The 6th International Dance and Somatic Practices Conference 2023, Virtual Event, FR
+
+June 30 : PhD Graduation Ceremony, Gif-sur-Yvette, FR
+
 June 19-23 : Workshop with César Vayssié during CND's Camping, Pantin, FR
 
 June 14 : 9pm, End-of-residency performance of *Series Grid, Study Sensing Memory* at Cap Berriat, Grenoble, FR
