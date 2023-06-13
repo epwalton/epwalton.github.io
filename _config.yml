@@ -38,8 +38,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Cie Ring ; Ring ; Dial
-  url: /ring-ring-dial/
+- #title: Cie Ring ; Ring ; Dial
+ # url: /ring-ring-dial/
 - title: Projects
   url: /projects/
 - title: Calendar
