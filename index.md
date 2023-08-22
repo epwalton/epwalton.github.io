@@ -1,7 +1,7 @@
 ---
 title:  
 feature_image: "Website_drawing_4.png"
-feature_text: |
+feature_text: 
 <--- <span style="color:#000000;font-family:inherit;font-size:25px">**Elizabeth WALTON**</span><br />
   <span style="color:#000000;font-family:inherit;font-size:25px">Compagnie Ring ; Ring ; Dial </span>
   --->
