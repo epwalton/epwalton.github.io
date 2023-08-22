@@ -1,8 +1,8 @@
 ---
 title:  
 feature_text: |
-  <span style="font-family:inherit;font-size:35px">**Elizabeth Prater WALTON**</span><br />
-  <span style="font-family:inherit;font-size:25px">*Choreographer & Researcher in Movement & Technology*</span>
+  <span style="font-family:inherit;font-size:35px;position:"left"">**Elizabeth WALTON**</span><br />
+  <span style="font-family:inherit;font-size:25px;position:"left"">*Compagnie Ring ; Ring ; Dial *</span>
 ---
 
 <p>
