@@ -1,8 +1,8 @@
 ---
 title:  
 feature_text: |
-  <span style="font-family:inherit;font-size:text-align: left">**Elizabeth WALTON**</span><br />
-  <span style="font-family:inherit;font-size:25px;text-align: left">*Compagnie Ring ; Ring ; Dial *</span>
+  <span style="font-family:inherit;font-size:25px">**Elizabeth WALTON**</span><br />
+  <span style="font-family:inherit;font-size:25px">*Compagnie Ring ; Ring ; Dial *</span>
 ---
 
 <p>
