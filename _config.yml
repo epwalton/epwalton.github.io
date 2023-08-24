@@ -37,9 +37,10 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-subfolderitems:
-      - name: Elizabeth
-        url: /elizabeth/
+  url : /about/ 
+#subfolderitems:
+     # - name: Elizabeth
+      #  url: /elizabeth/
         #weight: 2
 - #title: Cie Ring ; Ring ; Dial
  # url: /ring-ring-dial/
