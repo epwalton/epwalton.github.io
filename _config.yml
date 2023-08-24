@@ -50,6 +50,8 @@ navigation_header:
  # url: /blog/
 - title: Contact 
   url: /contact/
+- title: Fr 
+  url: /fr/
 
 navigation_footer:
 - title: Instagram
