@@ -37,9 +37,10 @@ navigation_header:
 - title: Home
   url: /
 - title: About
- sublinks:
-      - title: Elizabeth Walton
-        url: /Elizabeth/
+subfolderitems:
+      - name: "Elizabeth"
+        url: "/elizabeth/"
+        weight: 2
 - #title: Cie Ring ; Ring ; Dial
  # url: /ring-ring-dial/
 - title: Projects
