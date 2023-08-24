@@ -38,9 +38,9 @@ navigation_header:
   url: /
 - title: About
 subfolderitems:
-      - name: "Elizabeth"
-        url: "/elizabeth/"
-        weight: 2
+      - name: Elizabeth
+        url: /elizabeth/
+        #weight: 2
 - #title: Cie Ring ; Ring ; Dial
  # url: /ring-ring-dial/
 - title: Projects
