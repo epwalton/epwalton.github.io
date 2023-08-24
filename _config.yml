@@ -37,7 +37,8 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /about/
+  -subtitle : Elizabeth Walton
+  - url: /about
 - #title: Cie Ring ; Ring ; Dial
  # url: /ring-ring-dial/
 - title: Projects
