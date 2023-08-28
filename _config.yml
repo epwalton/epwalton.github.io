@@ -94,4 +94,14 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  - 
+      scope:
+      path: "en"
+    values:
+      lang: "en" # Set the default language for pages
+   - 
+     scope:
+      path: "fr"
+    values:
+      lang: "fr" # Set the default language for pages
       
