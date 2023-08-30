@@ -5,7 +5,7 @@ title: Contact Information
 **Compagnie Ring ; Ring ; Dial** <br />
 3 bis rue Elisée Reclus<br />
 38100 Grenoble, FRANCE<br />
-cieringringdial@proton.me <br />
+cieringringdial[at]proton[dot]me <br />
 
 **Elizabeth Walton**
 elizabeth[dot]walton[at]protonmail[dot]com <br />
