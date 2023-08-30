@@ -3,8 +3,7 @@ title: Contact Information
 ---
 
 **Compagnie Ring ; Ring ; Dial** <br />
-chez Mme. Walton
-3 bis rue Elisée Reclus
+3 bis rue Elisée Reclus<br />
 38100 Grenoble, FRANCE<br />
 cieringringdial@proton.me <br />
 
