@@ -3,12 +3,15 @@ title: Contact Information
 ---
 
 **Compagnie Ring ; Ring ; Dial**
-cieringringdial@proton.me
+chez Mme. Walton
+3 bis rue Elisée Reclus
+38100 Grenoble, FRANCE
+cieringringdial@proton.me </br>
 
 **Elizabeth Walton**
-elizabeth[dot]walton[at]protonmail[dot]com
+elizabeth[dot]walton[at]protonmail[dot]com </br>
 
-If you would like to receive the quarterly newsletter, feel free to send an email to either address to let us know! 
+If you would like to receive the quarterly newsletter, feel free to send an email and let us know! 
 
 
 
