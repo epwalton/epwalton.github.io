@@ -8,4 +8,4 @@ The Compagnie Ring ; Ring ; Dial was founded in January of 2023 in Grenoble. The
 Président : Thomas PONCET <br />
 Trésorière : Emilie BUESSLER   
 
-SIRET: 923 025 027 00015 · APE: 90.01 · 
+SIRET: 923 025 027 00015 · APE: 90.01Z · 
