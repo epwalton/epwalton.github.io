@@ -39,21 +39,11 @@ navigation_header:
 - title: About
   url : /about/ 
   subnavigation:
-    label: pan pan pan
-#subfolderitems:
-     # - name: Elizabeth
-      #  url: /elizabeth/
-        #weight: 2
-- #title: Cie Ring ; Ring ; Dial
- # url: /ring-ring-dial/
+    - label: pan pan pan
 - title: Projects
   url: /projects/
 - title: Calendar
   url: /calendar/
-#title: Gallery
-  #url: /gallery/
- #title: Blog
- # url: /blog/
 - title: Contact 
   url: /contact/
 - title: Fr 
