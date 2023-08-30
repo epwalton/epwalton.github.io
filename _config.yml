@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Elizabeth Walton.'
 description: ''
 permalink: pretty
-logo: "../../../../../fall_23_logo_text.png"
+logo: "../../../../../pics/fall_23_logo_text.png"
 
 # Pagination
 #paginate: 5
@@ -70,7 +70,7 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: 
-    feature_image: "../../../../../Website_drawing_2.png "
+    feature_image: "../../../../../pics/Website_drawing_2.png "
    
 
 # Collection settings
