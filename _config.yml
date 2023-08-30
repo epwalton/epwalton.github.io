@@ -38,8 +38,9 @@ navigation_header:
   url: /
 - title: About
   url : /about/ 
-  subnavigation:
+  sub_navigation:
     - label: pan pan pan
+      url: pan/
 - title: Projects
   url: /projects/
 - title: Calendar
