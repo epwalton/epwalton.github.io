@@ -49,8 +49,6 @@ navigation_header:
   url: /calendar/
 - title: Contact 
   url: /contact/
-- title: Fr 
-  url: /fr/
 
 navigation_footer:
 - title: Instagram
