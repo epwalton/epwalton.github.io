@@ -1,5 +1,5 @@
 ---
-title: About Elizabeth Prater WALTON
+title: About Elizabeth WALTON
 ---
 {% include figure.html image="../Headshot_serious.jpg" caption="" width="250" height="650" %}
 
