@@ -39,8 +39,10 @@ navigation_header:
 - title: About
   url : /about/ 
   sub_navigation:
-    - title: Elizabeth
-      url: elizabeth/
+    - title: The company
+      url: ringringdial/
+    - title: The choreographer
+      url: elizabethwalton/
 - title: Projects
   url: /projects/
 - title: Calendar
