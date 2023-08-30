@@ -43,6 +43,8 @@ navigation_header:
       url: ringringdial/
     - title: The choreographer
       url: elizabethwalton/
+    - title : The collaborators
+      url: collaborators
 - title: Projects
   url: /projects/
 - title: Calendar
