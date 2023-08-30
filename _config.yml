@@ -51,9 +51,8 @@ navigation_header:
   url: /fr/
 
 navigation_footer:
-  [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-#- title: 
-  #url: https://www.instagram.com/_elizabeth_walton_/
+- title: Instagram
+  url: https://www.instagram.com/_elizabeth_walton_/
 
 # Footer nav
 #navigation_footer:
