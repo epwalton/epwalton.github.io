@@ -2,7 +2,7 @@
 title: Contact Information 
 ---
 
-**Compagnie Ring ; Ring ; Dial**
+**Compagnie Ring ; Ring ; Dial** <br />
 chez Mme. Walton
 3 bis rue Elisée Reclus
 38100 Grenoble, FRANCE<br />
