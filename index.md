@@ -1,6 +1,6 @@
 ---
 title:  
-feature_image: "Website_drawing_4.png"
+feature_image: "pics/Website_drawing_4.png"
 ---
 
 <p>
