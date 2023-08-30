@@ -2,7 +2,7 @@
 title: Understanding Dance Style Transitions to Improve the Design of Dance Learning Support Systems
 categories:
 - Research
-feature_image: "../../../../../Website_drawing_3.png"
+feature_image: "../../../../../pics/Website_drawing_3.png"
 ---
 
 I defined a _dance style transition_ as a moment -- short- and long-term -- when a dancer changes from training and working in one style of dance, like classical ballet, to another style. I studied this transition experience to understand: the long-term, personal and professional evolution of a professional dancer's career; how to design technology to support the life and practices of professional dancers; and to critically examine the current designs and intentions of movement-based interactive systems for dance learning and choreography. 
