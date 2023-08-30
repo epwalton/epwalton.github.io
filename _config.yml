@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: About
   url : /about/ 
+  subnavigation:
+    label: pan pan pan
 #subfolderitems:
      # - name: Elizabeth
       #  url: /elizabeth/
