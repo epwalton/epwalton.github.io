@@ -1,7 +1,7 @@
 ---
 title: About Elizabeth WALTON
 ---
-{% include figure.html image="../Headshot_serious.jpg" caption="" width="250" height="650" %}
+{% include figure.html image="../../pics/Headshot_serious.jpg" caption="" width="250" height="650" %}
 
 Elizabeth Prater WALTON (she/her) is a choreographer and researcher of the company *Ring ; Ring ; Dial*. Born in Louisville, Kentucky in the United States, she decided to move to France in 2017. She previously studied with Kristen Wenrick and Theresa Bautista. She has workshop experience working with Desmond Richardson, Christian Burns, Liz Santoro, Myriam Gourfink, and Ayelen Parolin. 
 
@@ -11,11 +11,11 @@ She recently explored the relationship between technological interaction and dan
 
 Take a look at her [CV](March_2023_Elizabeth_Walton_CV_Danse.pdf) for more detailed information.
 
-{% include figure.html image="../WALTON_Photo_plain_pied.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../WATLON_photo_didentite.jpg" caption="" position="right" width="250" height="700"%}
+{% include figure.html image="../../pics/WALTON_Photo_plain_pied.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../WATLON_photo_didentite.jpg" caption="" position="right" width="250" height="700"%}
 
-{% include figure.html image="../Second_pointe.jpg" caption="" width="250" height="700" %} {% include figure.html image="../blue_side_attitude.jpg" caption="" position="right" width="250" height="700"%}
+{% include figure.html image="../../pics/Second_pointe.jpg" caption="" width="250" height="700" %} {% include figure.html image="../../pics/blue_side_attitude.jpg" caption="" position="right" width="250" height="700"%}
 
-{% include figure.html image="../blue_pants_lunge.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../Forward_attitude.jpg" caption="" position="right" width="250" height="700"%}
+{% include figure.html image="../../pics/blue_pants_lunge.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../../pics/Forward_attitude.jpg" caption="" position="right" width="250" height="700"%}
 
 <br /> 
 <br />
