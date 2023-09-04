@@ -48,11 +48,11 @@ navigation_header:
 - title: Projects
   url: /projects/
   sub_navigation:
-    - title: Series Grid, Study Sensing Memeory
+    - title: Series Grid, Study Sensing Memory
       url: series-grid/
     - title: Dance Style Transitions
       url: transitions/
-    - title : Reconciling Tech-driven and Experiential Approaches
+    - title : Reconciling Tech-driven & Experiential 
       url: reconciling/
 - title: Calendar
   url: /calendar/
