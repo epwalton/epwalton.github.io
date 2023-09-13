@@ -3,7 +3,7 @@ title: About the Collaborators
 ---
 
 
-{% include figure.html image="../../pics/5-DSC09949.jpg" caption="" position="left" width="250" height="700" %}
+{% include figure.html image="../../../pics/5-DSC00049.jpg" caption="" position="left" width="250" height="700" %}
 **Emma Gardeur**
 *Dramacist*
 
