@@ -9,7 +9,5 @@ cieringringdial[at]proton[dot]me <br />
 *Artistic and Research Direction*<br />
 elizabeth[dot]walton[at]protonmail[dot]com <br />
 
-If you would like to receive the quarterly newsletter, feel free to send an email and let us know! 
-
 
 
