@@ -5,7 +5,7 @@ feature_text: |
   ## Calendar
 ---
 
-<span style="color:green;font-weight:700;font-size:20px">2024</span>
+<span style="color:green;font-weight:700;font-size:32px">2024</span>
 
 <span style="color:#a8adac">October 30-November 3, November 17-19 : Artistic Residency of *Series Grid, Study Sensing Memory* at l'Alimentation Générale Artistique, Grenoble, FR</span>
 
@@ -23,4 +23,5 @@ feature_text: |
 
 <span style="color:#a8adac">February 20 : Career Day Presentation at Jean Zay middle school, Saint-Gratien, FR</span>
 
-#2023#
+
+<span style="color:green;font-weight:700;font-size:32px">2023</span>
