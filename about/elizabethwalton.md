@@ -13,19 +13,9 @@ Take a look at her [CV](March_2023_Elizabeth_Walton_CV_Danse.pdf) for more detai
 
 {% include figure.html image="../../pics/6-DSC09805.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../../pics/9-DSC09825.jpg" caption="" position="right" width="250" height="700"%}
 
-{% include figure.html image="../../pics/3-DSC09788.jpg" caption="" width="250" height="700" %} 
+{% include figure.html image="../../pics/3-DSC09788.jpg" caption="" width="350" height="900" %} 
 
 <br /> 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
