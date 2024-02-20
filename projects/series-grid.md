@@ -12,7 +12,8 @@ In *Series Grid Study Sensing Memory*, the dancer plunges us into her past, her 
 These "memories" stored on a controller are re-invoked by the stage director. A random score for a sensitive exploration. In duet.
 
 choreographer and dancer: Elizabeth WALTON <br />
-stage director and technician : [Emma GARDEUR](https://emmagdr.wixsite.com/profil), [cie Homoerictus](https://homoerictuscompagnie.wixsite.com/artderue)
+stage director : [Emma GARDEUR](https://emmagdr.wixsite.com/profil), [cie Homoerictus](https://homoerictuscompagnie.wixsite.com/artderue)
+prototype creator : [Adrien Bardet](https://www.instagram.com/abdt_visuels/)
 
 
 {% include figure.html image="../../../../../../pics/couple_contemp.jpg" caption="" width="450" height="200" %}
