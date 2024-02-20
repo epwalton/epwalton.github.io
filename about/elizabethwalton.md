@@ -17,14 +17,6 @@ Take a look at her [CV](March_2023_Elizabeth_Walton_CV_Danse.pdf) for more detai
 
 <br /> 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 Photos by Matthieu Landos ([@m4tland](https://www.instagram.com/m4tland/)).
 
