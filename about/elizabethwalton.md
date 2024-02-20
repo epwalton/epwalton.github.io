@@ -11,11 +11,9 @@ She recently explored the relationship between technological interaction and dan
 
 Take a look at her [CV](March_2023_Elizabeth_Walton_CV_Danse.pdf) for more detailed information.
 
-{% include figure.html image="../../pics/WALTON_Photo_plain_pied.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../../pics/WATLON_photo_didentite.jpg" caption="" position="right" width="250" height="700"%}
+{% include figure.html image="../../pics/6-DSC09805.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../../pics/9-DSC09825.jpg" caption="" position="right" width="250" height="700"%}
 
-{% include figure.html image="../../pics/Second_pointe.jpg" caption="" width="250" height="700" %} {% include figure.html image="../../pics/blue_side_attitude.jpg" caption="" position="right" width="250" height="700"%}
-
-{% include figure.html image="../../pics/blue_pants_lunge.jpg" caption="" position="left" width="250" height="700" %} {% include figure.html image="../../pics/Forward_attitude.jpg" caption="" position="right" width="250" height="700"%}
+{% include figure.html image="../../pics/3-DSC09788.jpg" caption="" width="250" height="700" %} 
 
 <br /> 
 <br />
