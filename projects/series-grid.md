@@ -14,7 +14,7 @@ These "memories" stored on a controller are re-invoked by the stage director. A 
 choreographer and dancer: Elizabeth WALTON <br />
 stage director : [Emma GARDEUR](https://emmagdr.wixsite.com/profil), [cie Homoerictus](https://homoerictuscompagnie.wixsite.com/artderue) <br />
 prototype creator : [Adrien BARDET](https://www.instagram.com/abdt_visuels/)<br />
-Co-Productions : Cap Berriat - Grenoble, Festival Ouverture Exceptionnelle - Fontaine, l'Alimentation Générale Artistique - Grenoble 
+Support : Cap Berriat - Grenoble, Festival Ouverture Exceptionnelle - Fontaine, l'Alimentation Générale Artistique - Grenoble 
 
 
 {% include figure.html image="../../../../../../pics/couple_contemp.jpg" caption="" width="450" height="200" %}
