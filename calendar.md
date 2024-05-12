@@ -11,11 +11,11 @@ June 29 : Performance of *Series Grid, Study Sensing Memory* at la fête du Gran
 
 June 17-22 : Residency for *Series Grid, Study Sensing Memory* at Le Grand Collectif, Grenoble, FR
 
-May 24 : Performance of *Series Grid, Study Sensing Memory* at the DNA festival 2024, Grenoble, FR
+May 24 : 9pm, 10pm, 11pm, Performance of *Series Grid, Study Sensing Memory* at the DNA festival 2024, Grenoble, FR
 
-May 16 : 4:15pm, End-of-residency performance of *Series Grid, Study Sensing Memory* at Cap Berriat, Grenoble, FR
+May 15 : 1:00pm, End-of-residency performance of *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR
 
-May 14-16 : Residency for *Series Grid, Study Sensing Memory* at La Baj'Art, Grenoble, FR
+May 13 - 17, 21-23 : Residency for *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR
 
 February 22 : Co-edge Alumni Panel for Louisville Collegiate High School, Virtual Event, FR
 
