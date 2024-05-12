@@ -17,7 +17,7 @@ May 15 : 1:00pm, End-of-residency performance of *Series Grid, Study Sensing Mem
 
 May 13 - 17, 21-23 : Residency for *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR
 
-February 22 : Co-edge Alumni Panel for Louisville Collegiate High School, Virtual Event, FR
+<span style="color:#a8adac">February 22 : Co-edge Alumni Panel for Louisville Collegiate High School, Virtual Event, FR</span>
 
 <div style="text-align:center"><span style="color:green;font-weight:700;font-size:44px">2023</span></div>
 
