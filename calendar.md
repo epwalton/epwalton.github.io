@@ -12,27 +12,27 @@ feature_text: |
 
 June 10 : Our intern, Ryma, started her 8 week internship this morning! She will be prototyping the wearables for the *SoulaGeste*. 
 
-April 10 : End-of-residency performance of *Elizabeth, from Kentucky* (Working Title) during Les Nocturnes de l’AGA, Grenoble, FR
+<span style="color:#a8adac">April 10 : End-of-residency performance of *Elizabeth, from Kentucky* (Working Title) during Les Nocturnes de l’AGA, Grenoble, FR</span>
 
-March 25-28 : Workshop on shape-changing interfaces with programmable soft materials at the Fablab at the LIG lab for the upcoming *SoulaGeste* project, Grenoble, FR
+<span style="color:#a8adac">March 25-28 : Workshop on shape-changing interfaces with programmable soft materials at the Fablab at the LIG lab for the upcoming *SoulaGeste* project, Grenoble, FR</span>
 
-March 19-20 : [les Journées du Rézolab](https://www.lepruniersauvage.com/le-rezo-lab/) at le Prunier Sauvage, Grenoble, FR
+<span style="color:#a8adac">March 19-20 : [les Journées du Rézolab](https://www.lepruniersauvage.com/le-rezo-lab/) at le Prunier Sauvage, Grenoble, FR</span>
 
-March 10-16 : Residency for *Elizabeth, from Kentucky* (Working Title) at l'Alimentation Générale Artistique, Grenoble, FR
+<span style="color:#a8adac">March 10-16 : Residency for *Elizabeth, from Kentucky* (Working Title) at l'Alimentation Générale Artistique, Grenoble, FR</span>
 
-January 29 : Performance of *Series Grid, Study Sensing Memory* at the 102, Grenoble, FR
+<span style="color:#a8adac">January 29 : Performance of *Series Grid, Study Sensing Memory* at the 102, Grenoble, FR</span>
 
 <div style="text-align:center"><span style="color:green;font-weight:700;font-size:44px">2024</span></div>
 
-June 29 : Performance of *Series Grid, Study Sensing Memory* at la fête du Grand Collectif, Grenoble, FR
+<span style="color:#a8adac">June 29 : Performance of *Series Grid, Study Sensing Memory* at la fête du Grand Collectif, Grenoble, FR</span>
 
-June 17-22 : Residency for *Series Grid, Study Sensing Memory* at Le Grand Collectif, Grenoble, FR
+<span style="color:#a8adac">June 17-22 : Residency for *Series Grid, Study Sensing Memory* at Le Grand Collectif, Grenoble, FR</span>
 
-May 24 : 9pm, 10pm, 11pm, Performance of *Series Grid, Study Sensing Memory* at the DNA festival 2024, Grenoble, FR
+<span style="color:#a8adac">May 24 : 9pm, 10pm, 11pm, Performance of *Series Grid, Study Sensing Memory* at the DNA festival 2024, Grenoble, FR</span>
 
-May 15 : 1:00pm, End-of-residency performance of *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR
+<span style="color:#a8adac">May 15 : 1:00pm, End-of-residency performance of *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR</span>
 
-May 13 - 17, 21-23 : Residency for *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR
+<span style="color:#a8adac">May 13 - 17, 21-23 : Residency for *Series Grid, Study Sensing Memory* at le Minimistan, Grenoble, FR</span>
 
 <span style="color:#a8adac">February 22 : Co-edge Alumni Panel for Louisville Collegiate High School, Virtual Event, FR</span>
 
