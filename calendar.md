@@ -5,6 +5,23 @@ feature_text: |
   ## Calendar
 ---
 
+
+
+
+<div style="text-align:center"><span style="color:green;font-weight:700;font-size:44px">2025</span></div>
+
+June 10 : Our intern, Ryma, started her 8 week internship this morning! She will be prototyping the wearables for the *SoulaGeste*. 
+
+April 10 : End-of-residency performance of *Elizabeth, from Kentucky* (Working Title) during Les Nocturnes de l’AGA, Grenoble, FR
+
+March 25-28 : Workshop on shape-changing interfaces with programmable soft materials at the Fablab at the LIG lab for the upcoming *SoulaGeste* project, Grenoble, FR
+
+March 19-20 : [les Journées du Rézolab](https://www.lepruniersauvage.com/le-rezo-lab/) at le Prunier Sauvage, Grenoble, FR
+
+March 10-16 : Residency for *Elizabeth, from Kentucky* (Working Title) at l'Alimentation Générale Artistique, Grenoble, FR
+
+January 29 : Performance of *Series Grid, Study Sensing Memory* at the 102, Grenoble, FR
+
 <div style="text-align:center"><span style="color:green;font-weight:700;font-size:44px">2024</span></div>
 
 June 29 : Performance of *Series Grid, Study Sensing Memory* at la fête du Grand Collectif, Grenoble, FR
