@@ -7,8 +7,8 @@ The Compagnie Ring ; Ring ; Dial was founded in January of 2023 in Grenoble. The
 Keep up with our current events on our Facebook page [here](https://www.facebook.com/profile.php?id=61553270193695)! 
 
 
-President : Thomas PONCET <br />
-Treasurer : Emilie BUESSLER   
+President : Marie-Laure DO <br />
+Treasurer : Lucas BCHINI  
 
 SIRET: 923 025 027 00015 · APE: 90.01Z <br />
 Licences N° : PLATESV-D-2023-006020
